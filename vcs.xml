@@ -30,6 +30,10 @@
           <option name="url" value="ssh://git@bitbucket.nespresso.com:7999/rec/puppet-hackerank-refactor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jenkinsci/branch-api-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Nespresso/" />

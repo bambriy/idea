@@ -46,6 +46,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="jenkins-global-libs">
+      <CLASSES />
+      <JAVADOC>
+        <root url="file:///dat0/Nespresso/jenkins-global-libs" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
     <library name="Python 2.7.5 virtualenv at ~/jenkins-jobs interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/jenkins-jobs/lib64/python2.7" />

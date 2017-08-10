@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <removed_mapping ext="erb" approved="true" type="RHTML" />
+      <mapping ext="eyaml" type="YAML" />
     </extensionMap>
   </component>
 </application>

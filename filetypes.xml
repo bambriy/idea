@@ -4,8 +4,6 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="docker" type="Groovy" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="erb" type="PLAIN_TEXT" />
-      <removed_mapping ext="erb" approved="true" type="RHTML" />
       <mapping ext="eyaml" type="YAML" />
     </extensionMap>
   </component>

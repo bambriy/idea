@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[nesjenkins] - .../templates/job-config/common/sources.xml.erb'" />
-    <option name="defaultScopeName" value="File '[nesjenkins] - .../templates/job-config/common/sources.xml.erb'" />
-    <option name="SEARCH_SCOPE" value="File '[nesjenkins] - .../templates/job-config/common/sources.xml.erb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

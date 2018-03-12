@@ -42,8 +42,16 @@
           <option name="url" value="https://github.com/bambriy/job-dsl-plugin" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dsu-bitbucket.nestle.biz/projects/SB/repos/tf-azure-base/browse" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@52.166.71.39:7999/sb/tf-azure-base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Nespresso/" />
+    <option name="cloneParentDir" value="$USER_HOME$/Nespresso/Terraform/" />
   </component>
 </application>
